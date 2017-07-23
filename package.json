@@ -50,7 +50,7 @@
   "dependencies": {
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10",
-    "victory-chart": "^21.3.0",
+    "victory-chart": "https://github.com/micchyboy/victory-chart.git",
     "victory-core": "^16.3.0",
     "victory-pie": "^11.3.0"
   }
